@@ -1,3 +1,7 @@
+// Ioana Alex Mititean
+// 10/11/22
+// Unit 8.2.8: find, findIndex Exercise
+
 /* 
 Write a function called `findUserByUsername` which accepts an array of objects, each with a key of username, and a string. The function should return the first object with the key of username that matches the string passed to the function. If the object is not found, return undefined. 
 

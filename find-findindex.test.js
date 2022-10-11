@@ -1,3 +1,7 @@
+// Ioana Alex Mititean
+// 10/11/22
+// Unit 8.2.8: find, findIndex Exercise
+
 describe("#findUserByUsername", function() {
   let users;
   beforeEach(function() {
